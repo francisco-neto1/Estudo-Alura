@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\NumeroAleatorio\bin\Debug\net6.0\NumeroAleatorio.exe
+C:\Users\franc\source\repos\NumeroAleatorio\bin\Debug\net6.0\NumeroAleatorio.deps.json
+C:\Users\franc\source\repos\NumeroAleatorio\bin\Debug\net6.0\NumeroAleatorio.runtimeconfig.json
+C:\Users\franc\source\repos\NumeroAleatorio\bin\Debug\net6.0\NumeroAleatorio.dll
+C:\Users\franc\source\repos\NumeroAleatorio\bin\Debug\net6.0\NumeroAleatorio.pdb
+C:\Users\franc\source\repos\NumeroAleatorio\obj\Debug\net6.0\NumeroAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\NumeroAleatorio\obj\Debug\net6.0\NumeroAleatorio.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\NumeroAleatorio\obj\Debug\net6.0\NumeroAleatorio.AssemblyInfo.cs
+C:\Users\franc\source\repos\NumeroAleatorio\obj\Debug\net6.0\NumeroAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\NumeroAleatorio\obj\Debug\net6.0\NumeroAleatorio.dll
+C:\Users\franc\source\repos\NumeroAleatorio\obj\Debug\net6.0\refint\NumeroAleatorio.dll
+C:\Users\franc\source\repos\NumeroAleatorio\obj\Debug\net6.0\NumeroAleatorio.pdb
+C:\Users\franc\source\repos\NumeroAleatorio\obj\Debug\net6.0\NumeroAleatorio.genruntimeconfig.cache
+C:\Users\franc\source\repos\NumeroAleatorio\obj\Debug\net6.0\ref\NumeroAleatorio.dll
